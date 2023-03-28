@@ -8,4 +8,4 @@ Conclusion:
 2. There is no correlation in any pairs of numbers
 3. Even the most highly correlated pairs (statiscially no corr.) never appear in single draw
 
-Ultimately, statistics won't help you beat Lotto 644, but what about the other lottos?
+Ultimately, statistics won't help you beat Lotto 649, but what about the other lottos?
