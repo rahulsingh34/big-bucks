@@ -5,7 +5,7 @@ Well I did exactly that starting with Lotto 649!
 
 Conclusion:
 1. There is essentially an equal distribution in the numbers drawn
-2. There is no correlation in any pairs of numbers
+2. There is no correlation in any pairs of numbers (generally the case with equal distribution)
 3. Even the most highly correlated pairs (statiscially no corr.) never appear in single draw
 
 Ultimately, statistics won't help you beat Lotto 649, but what about the other lottos?
